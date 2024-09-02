@@ -2,7 +2,6 @@
 """
 Created on Mon Apr 20 20:51:42 2020
 
-@author: Quintero
 """
 
 #Momentum with filter
