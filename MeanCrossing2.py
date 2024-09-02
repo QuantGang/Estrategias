@@ -2,7 +2,6 @@
 """
 Created on Mon Apr 20 18:33:21 2020
 
-@author: Quintero
 """
 #Momentum with filter
 import pandas as pd
